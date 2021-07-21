@@ -1,6 +1,6 @@
 {
    "app_redirectOtherAppStatus":"0",
-   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsavlive.starutsavhindiserialsapps3.freestarutsavserialsapp",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
    "app_AppOpenAdStatus":"0",
    "app_dialogBeforeAdShow":"0",
    "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
@@ -13,11 +13,11 @@
    "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
    "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
    "AppOpen":"ca-app-pub-3940256099942544/3419835294",
-   "fbad_showStatus":"0",
-   "fb_banner":"284404933253628_340615987632522",
-   "fb_inter1":"284404933253628_340660064294781",
-   "fb_inter2":"284404933253628_340660440961410",
-   "fb_inter3":"284404933253628_340660600961394",
-   "fb_native":"284404933253628_340659994294788",
-   "fb_nativebanner":"284404933253628_340660290961425"
+   "fbad_showStatus":"1",
+   "fb_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_inter3":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "fb_nativebanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
 }
